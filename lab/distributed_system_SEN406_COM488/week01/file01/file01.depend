@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1737662038 source:c:\data\courses\aydin_unv\bahar\distributed_system\project_lab\distributed_system_sen406_com488\week01\file01\main.c
+	<stdio.h>
+	<stdlib.h>
+
