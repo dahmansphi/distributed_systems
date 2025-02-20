@@ -3,8 +3,6 @@ Hadoop is an ideal tool to begin understanding distributed storage and distribut
 
 Though in production we prefer cloud-based Hadoop solutions (like AWS EMR, Cloudera CDH, etc), setting up a Hadoop cluster manually gives clarity about distributed systems.
 
-This beginner's tutorial is written purely for educational purposes. This repository has minimal Hadoop configurations for the master and worker nodes. For more explanation, refer YouTube video https://youtu.be/c2Lg5c8v4YQ.
-
 ## Hadoop Cluster Setup steps
 * step 1: Install VirtualBox on your system.
     * ubuntu terminal> sudo apt install virtualbox
